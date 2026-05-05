@@ -1,6 +1,6 @@
 # LectureNotes2Spinors
 
-This repository contains personal lecture notes on gravitational 2-spinors, together with example Mathematica notebooks illustrating some of the computations. The notes are based on a 6-hour PhD course given at the University of Perugia in April 2025.
+This repository contains personal lecture notes on gravitational 2-spinors, together with example Mathematica notebooks illustrating some of the computations. The notes are based on a 6-hour PhD course I gave at the University of Perugia in April 2025.
 
 ## Contents
 
